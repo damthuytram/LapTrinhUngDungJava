@@ -10,5 +10,6 @@ public class lab3 {
 		System.out.println("Nhập chiều dài cạnh của khối lập phương: ");
 		canh=sc.nextFloat();
 		System.out.println("Thể tích của khối lập phương : "+Math.pow(canh,3));	
+		System.out.println("hello");
 	}
 }
